@@ -1,8 +1,9 @@
-str = 'Basudev'
+import pyautogui
+import time
 
-print(str.count('Basudev'))
-print(str[0:7:2])
-print(len(str))
-
-tu = {1, 2, 3}
-print(len(tu))
+time.sleep(4)
+count = 0
+while count <= 1000:
+    pyautogui.typewrite("I love you" + str(count))
+    pyautogui.press("enter")
+    count = count + 1
