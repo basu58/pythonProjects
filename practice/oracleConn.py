@@ -7,7 +7,7 @@ try:
     cursor = con.cursor()
 
     cursor.execute("create table x(name integer)")
-    #print(x.fetchall())
+    # print(x.fetchall())
     print("Table Created successfully")
 
 except cx_Oracle.DatabaseError as e:
@@ -18,5 +18,3 @@ finally:
         cursor.close()
     if con:
         con.close()
-
-

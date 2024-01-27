@@ -1,0 +1,41 @@
+1. **Swap two variables without using a temporary variable.**
+2. **Check if a number is even or odd without using modulo (%).**
+3. **Reverse a string.**
+4. **Check if a string is a palindrome.**
+5. **Find the largest element in a list.**
+6. **Count the occurrences of each element in a list.**
+7. **Remove duplicates from a list.**
+8. **Check if a list is sorted in ascending order.**
+9. **Implement a binary search algorithm.**
+10. **Write a function to calculate the factorial of a number.**
+11. **Check if a given year is a leap year.**
+12. **Find the common elements between two lists.**
+13. **Write a function to calculate the Fibonacci sequence.**
+14. **Reverse words in a sentence.**
+15. **Implement a stack using a list.**
+16. **Implement a queue using a list.**
+17. **Check if a given number is a prime number.**
+18. **Find the intersection of two sets.**
+19. **Calculate the power of a number using recursion.**
+20. **Write a function to generate a list of prime numbers up to a given limit.**
+21. **Write a function to check if a string has all unique characters.**
+22. **Implement a function to find the second-largest element in a list.**
+23. **Given a list of numbers, write a function to find the sum of all positive numbers.**
+24. **Implement a queue using two stacks.**
+25. **Write a function to find the missing number in a list of consecutive integers.**
+26. **Check if two strings are anagrams.**
+27. **Implement a basic calculator that can perform addition, subtraction, multiplication, and division.**
+28. **Determine if a number is a perfect square.**
+29. **Rotate a list to the right by k steps.**
+30. **Write a function to calculate the GCD (Greatest Common Divisor) of two numbers.**
+31. **Find the first non-repeating character in a string.**
+32. **Implement a simple text-based Tic-Tac-Toe game.**
+33. **Reverse a linked list.**
+34. **Write a function to check if a given string is a valid palindrome,
+considering only alphanumeric characters and ignoring cases.**
+35. **Find the longest common prefix of a list of strings.**
+36. **Given a list of words, group them by anagrams.**
+37. **Implement a basic file parser that reads a CSV file and prints its contents.**
+38. **Calculate the square root of a number without using built-in functions.**
+39. **Write a function to check if a number is a power of two.**
+40. **Implement a simple web scraper to extract data from a website.**
