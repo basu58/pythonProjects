@@ -1,15 +1,13 @@
-li = [1, 2, 3, 1, 2, 4, 8, 2, 9]
-li1 = []
-def replace_duplicates(li):
-    for i in range(0, len(li)-1):
-        for j in range(i+1, len(li)):
-            if li[i] == li[j]:
-                li1.append('x')
-        else:
-            li1.append(li[i])
+x = 'hello brother'
+y = x.split(' ')
+for i in range(0, len(y)):
+    print(y[i])
+    if 'h' in y[i]:
+        y[i] = 'ddd'
 
-    return li1
 
-x = replace_duplicates(li)
+print(' '.join(y))
 
-print(li1)
+print(x.rstrip('brother'))
+print(len(x))
+
