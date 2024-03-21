@@ -3,16 +3,16 @@ import boto3
 from datetime import datetime
 
 # Snowflake Connection Details
-snowflake_account = 'xdZHBDSABEWBJH ast-1'
+snowflake_account = 'ast-1'
 snowflake_user = 'BASUDEVC'
-snowflake_password = 'ABFUYVWEN XVY ZXCK'
+snowflake_password = 'sp'
 snowflake_database = 'BBI_ASSIGNMENT'
 snowflake_warehouse = 'BBI_WH'
 snowflake_schema = 'TEST_1'
 
 # AWS S3 Details
-aws_access_key = 'AAeuif78va bedhvbueH3LMYM'
-aws_secret_key = 'aabsdflaewioWEBGSD VNUIE'
+aws_access_key = 'ak'
+aws_secret_key = 'sk'
 s3_bucket_name = 'bbi-assignment'
 
 # Snowflake Connection
